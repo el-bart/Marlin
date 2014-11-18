@@ -1,0 +1,26 @@
+w załączniku wysyłamy programy do obsługi drukarki oraz firmware, którym należy przy pomocy programu Arduino (http://arduino.cc/en/Main/Software) zaprogramować sterownik drukarki. Program YARRH służy do sterowania drukarką, program Cura zaś do przerabiania modeli STL na pliki GCode.
+
+Relacja z budowy drukarki z naszego zestawu (proszę zwracać uwagę na komentarze do zdjęć):
+
+http://www.flickr.com/photos/105048182@N02/sets/72157642944311244/
+
+Podłączenie elektroniki:
+
+http://reprap.org/wiki/RAMPS_1.4
+
+Inne instrukcje:
+
+http://www.carlos-sanchez.com/Prusa3/
+
+http://www.sub-design.co.uk/i3build/
+
+http://reprap.org/wiki/RAMPS_1.4
+
+http://reprap.org/wiki/JBFromOZ#Build_Instructions_.28With_Pictures.21.29
+
+Pozdrawiam i dziękuję za zakup
+
+firma Jelwek
+
+programy.rar
+https://docs.google.com/file/d/0BxuEhKbEWnJScUVySmtkZ0pIckk/edit?usp=drive_web
